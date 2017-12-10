@@ -20,3 +20,19 @@
  */
 
 // Your code :
+const user = zeynab =>{
+
+    if (name == 'zeynab')
+        return true
+        else false
+
+     if (email == 'leira.wendy@gmail.com')   
+     
+    return true
+    else false
+
+    if (age == 19)
+    return true
+    else false    
+}
+ console.log(zeynab)
